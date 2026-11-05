@@ -4,12 +4,12 @@ import streamlit as st
 # Configuração da página no navegador
 st.set_page_config(
     page_title="Simulador de Banca - Direito CAPES",
-    page_icon="⚖️",
+    page_icon=,
     layout="centered",
 )
 
 # Cabeçalho da página
-st.title("⚖️ Simulador de Banca Acadêmica")
+st.title("Simulador de Banca Acadêmica")
 st.caption(
     "Avaliação de artigos, dissertações e teses com base no rigor de"
     " pós-graduação da CAPES (Direito)."
